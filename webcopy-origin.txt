@@ -1,0 +1,428 @@
+Uri: http://codare.fun/
+File Name: C:\Downloaded Web Sites\codare.fun\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Lato&display=swap
+File Name: C:\Downloaded Web Sites\codare.fun\css2.css
+Content Type: text/css
+
+Uri: https://images-ext-1.discordapp.net/external/hP--_u31hRBbgRD5YOKH9OXQOLseUeEOJEMb3eiIHmg/https/media.discordapp.net/attachments/715886415296069652/732632254303436880/a_668db0e197bcc75e8c463b93cced3c7d_2.gif
+File Name: C:\Downloaded Web Sites\codare.fun\external\hP--_u31hRBbgRD5YOKH9OXQOLseUeEOJEMb3eiIHmg\https\media.discordapp.net\attachments\715886415296069652\732632254303436880\a_668db0e197bcc75e8c463b93cced3c7d_2.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/attachments/715886415296069652/759848282422771732/New_Project_63_7E2F688.png
+File Name: C:\Downloaded Web Sites\codare.fun\attachments\715886415296069652\759848282422771732\New_Project_63_7E2F688.png
+Content Type: image/png
+
+Uri: http://codare.fun/assets/bootstrap/css/bootstrap.min.css?h=b1579cbd7df3c885978321b82fddd11d
+File Name: C:\Downloaded Web Sites\codare.fun\assets\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/css/all.css
+File Name: C:\Downloaded Web Sites\codare.fun\releases\v5.12.0\css\all.css
+Content Type: text/css
+
+Uri: http://codare.fun/kategori/js
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/html
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\html.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/py
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\py.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/diger
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\diger.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/js+
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js .html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/altyapi
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\altyapi.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/booster
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\booster.html
+Content Type: text/html
+
+Uri: http://codare.fun/yetkililer
+File Name: C:\Downloaded Web Sites\codare.fun\yetkililer.html
+Content Type: text/html
+
+Uri: http://codare.fun/sss
+File Name: C:\Downloaded Web Sites\codare.fun\sss.html
+Content Type: text/html
+
+Uri: http://codare.fun/v11tov12
+File Name: C:\Downloaded Web Sites\codare.fun\v11tov12.html
+Content Type: text/html
+
+Uri: http://codare.fun/v12tov11
+File Name: C:\Downloaded Web Sites\codare.fun\v12tov11.html
+Content Type: text/html
+
+Uri: http://codare.fun/index.css
+File Name: C:\Downloaded Web Sites\codare.fun\index.css
+Content Type: text/css
+
+Uri: https://discord.com/invite/JSvKxPs
+File Name: C:\Downloaded Web Sites\codare.fun\invite\JSvKxPs.html
+Content Type: text/html
+
+Uri: https://github.com/CodAre-Development
+File Name: C:\Downloaded Web Sites\codare.fun\CodAre-Development.html
+Content Type: text/html
+
+Uri: https://codare.gitbook.io/guide/
+File Name: C:\Downloaded Web Sites\codare.fun\guide\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/codare.discord/
+File Name: C:\Downloaded Web Sites\codare.fun\codare.discord\index.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/channel/UCVRhrcoG6FOvHGKehYtvKHg
+File Name: C:\Downloaded Web Sites\codare.fun\channel\UCVRhrcoG6FOvHGKehYtvKHg.html
+Content Type: text/html
+
+Uri: https://www.patreon.com/CodAre
+File Name: C:\Downloaded Web Sites\codare.fun\CodAre.html
+Content Type: text/html
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+File Name: C:\Downloaded Web Sites\codare.fun\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-173555167-1
+File Name: C:\Downloaded Web Sites\codare.fun\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://images.dmca.com/Badges/dmca-badge-w100-5x1-07.png?ID=aae727a8-8c55-4990-9afd-0c08c9cb5d10
+File Name: C:\Downloaded Web Sites\codare.fun\Badges\dmca-badge-w100-5x1-07.png
+Content Type: image/png
+
+Uri: https://images.dmca.com/Badges/DMCABadgeHelper.min.js
+File Name: C:\Downloaded Web Sites\codare.fun\Badges\DMCABadgeHelper.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\codare.fun\ajax\libs\jquery\3.4.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\codare.fun\ajax\libs\twitter-bootstrap\4.5.0\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.js
+File Name: C:\Downloaded Web Sites\codare.fun\ajax\libs\jquery-easing\1.4.1\jquery.easing.js
+Content Type: application/javascript
+
+Uri: http://codare.fun/assets/js/script.min.js?h=823eb1733a0a81fa385a52d2e8e60900
+File Name: C:\Downloaded Web Sites\codare.fun\assets\js\script.min.js
+Content Type: application/javascript
+
+Uri: http://codare.fun/kategori/js?s=1
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js-1.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/js?s=2
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js-2.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/js?s=3
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js-3.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/js?s=4
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js-4.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/js?s=16
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js-5.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/html?s=1
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\html-1.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/py?s=1
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\py-1.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/diger?s=1
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\diger-1.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/js+?s=1
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js -1.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/altyapi?s=1
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\altyapi-1.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/booster?s=1
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\booster-1.html
+Content Type: text/html
+
+Uri: http://codare.fun/staffs.css
+File Name: C:\Downloaded Web Sites\codare.fun\staffs.css
+Content Type: text/css
+
+Uri: https://cdn.discordapp.com/avatars/683036205453148190/f6ac5c3f86972d7ee423d2f23212555e.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\683036205453148190\f6ac5c3f86972d7ee423d2f23212555e.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/326692518118948865/8775e75fd160a6ee35687a6070ca31bc.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\326692518118948865\8775e75fd160a6ee35687a6070ca31bc.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/673166542954823691/2e567e96530e05eb8c1a5e51338dc98e.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\673166542954823691\2e567e96530e05eb8c1a5e51338dc98e.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/267716424615723019/edcb8acb44377fa397bf1691e35e7950.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\267716424615723019\edcb8acb44377fa397bf1691e35e7950.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/402047297963294730/789cc36008e9961aec3270a45b54de66.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\402047297963294730\789cc36008e9961aec3270a45b54de66.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/613700645173592086/a_f4ab847fc258b2fb4eb256af5141186a.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\613700645173592086\a_f4ab847fc258b2fb4eb256af5141186a.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/733784038199918683/a_fc4e2b568ca31a4e7b227ca888723f72.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\733784038199918683\a_fc4e2b568ca31a4e7b227ca888723f72.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/343412762522812419/d92792baf69212625e35b8c9362ffaac.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\343412762522812419\d92792baf69212625e35b8c9362ffaac.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/432570314120101889/a02a184aa240d990460cf8d9bf0dc7b3.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\432570314120101889\a02a184aa240d990460cf8d9bf0dc7b3.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/411519788842483712/6f08606372129ed931c790282764f3ed.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\411519788842483712\6f08606372129ed931c790282764f3ed.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/360322989515866112/355589c368772d23e3c50b8910848f69.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\360322989515866112\355589c368772d23e3c50b8910848f69.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/350976460313329665/a_656c8a40df5abfaa39d0011b39a0c45e.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\350976460313329665\a_656c8a40df5abfaa39d0011b39a0c45e.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/340756186427162631/a_01912f2edf005deba6fd37c8d77b6c83.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\340756186427162631\a_01912f2edf005deba6fd37c8d77b6c83.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/709683495684931704/c614b00c6abfdc83ec1358d61eef0ee0.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\709683495684931704\c614b00c6abfdc83ec1358d61eef0ee0.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/573531359843319856/a_dd9398bd8a39e1cc40e8b8a085958ed2.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\573531359843319856\a_dd9398bd8a39e1cc40e8b8a085958ed2.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/315033416099692544/a_ec55edd0ab5e421a6f763831b4ed3305.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\315033416099692544\a_ec55edd0ab5e421a6f763831b4ed3305.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/749173333790031894/56006e1ea90b49f225313b67cd76d740.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\749173333790031894\56006e1ea90b49f225313b67cd76d740.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/431068377876791307/b132f223ea92ccc4eb6cd33b3910b875.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\431068377876791307\b132f223ea92ccc4eb6cd33b3910b875.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/678596888957681664/3a9d442e0574e751a663ffb0033fec8a.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\678596888957681664\3a9d442e0574e751a663ffb0033fec8a.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/370918230921052160/a_7ba936d6c7e39bbc8d4729b1220ba1a9.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\370918230921052160\a_7ba936d6c7e39bbc8d4729b1220ba1a9.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/723804595373080577/6fdcfe445f99342e1c82f49d7736ecf9.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\723804595373080577\6fdcfe445f99342e1c82f49d7736ecf9.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/712837126625951804/a_f9caa5387400390e778aad39d23fdb46.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\712837126625951804\a_f9caa5387400390e778aad39d23fdb46.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/338316550442450954/a_6474be4dd411626b02c8f188c0a8f4be.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\338316550442450954\a_6474be4dd411626b02c8f188c0a8f4be.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/514818551287119888/a_492af98f6dfdd0e7e0600bbace63302e.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\514818551287119888\a_492af98f6dfdd0e7e0600bbace63302e.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/567765631282184222/5da8adb59ec9da21edeb9027e7d440bd.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\567765631282184222\5da8adb59ec9da21edeb9027e7d440bd.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/706938278955188305/a_9d03c3aa05197d252fc02c164b1a960e.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\706938278955188305\a_9d03c3aa05197d252fc02c164b1a960e.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/embed/avatars/0.png
+File Name: C:\Downloaded Web Sites\codare.fun\embed\avatars\0.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/avatars/410314252738363392/a_56d4457866354288e1e377d4d6212dae.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\410314252738363392\a_56d4457866354288e1e377d4d6212dae.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/300492233625436180/a_dfb9e2c78af1ad76a75af6526dcf996a.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\300492233625436180\a_dfb9e2c78af1ad76a75af6526dcf996a.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/783730071642570764/7d2bc514efd295c850edfa72ee1fca64.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\783730071642570764\7d2bc514efd295c850edfa72ee1fca64.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/799263332188028968/d904036a80ab7f39953371fcbafdba28.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\799263332188028968\d904036a80ab7f39953371fcbafdba28.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/556364591584772096/a_973e08713f5613037ebb11bd470246f8.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\556364591584772096\a_973e08713f5613037ebb11bd470246f8.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/790630252245286912/a_aec44f3d53a2a426dab7ff8993450009.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\790630252245286912\a_aec44f3d53a2a426dab7ff8993450009.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/300690641321590784/a_e770c39f4f4f41141d6f15afdff7f19a.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\300690641321590784\a_e770c39f4f4f41141d6f15afdff7f19a.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/794317796514332702/a_c81e36e70e2cd0b13f4ab382974f3b59.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\794317796514332702\a_c81e36e70e2cd0b13f4ab382974f3b59.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/522883742755323915/a_53bd97ff39f4f102cd7d26e2a4f5b63c.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\522883742755323915\a_53bd97ff39f4f102cd7d26e2a4f5b63c.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/784158914643492865/a_f5e006ac48221c71f0b6b0d5623eccdb.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\784158914643492865\a_f5e006ac48221c71f0b6b0d5623eccdb.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/576749207084466197/a_a04ae350f6a706e319efbe1247be159a.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\576749207084466197\a_a04ae350f6a706e319efbe1247be159a.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/648148305498603521/a_c0c79719a29ec25227c6c65adb0266bd.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\648148305498603521\a_c0c79719a29ec25227c6c65adb0266bd.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/478184177749983234/a_17c0499f066bf0e08186162d7c1924a6.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\478184177749983234\a_17c0499f066bf0e08186162d7c1924a6.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/777574051795304450/a_af8f6f00be1feadecd495414f9545c16.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\777574051795304450\a_af8f6f00be1feadecd495414f9545c16.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/793467584820281346/eb732a5e0b676f496de3ab1c67262cf2.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\793467584820281346\eb732a5e0b676f496de3ab1c67262cf2.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/787261943961878529/a_47041e1094d82a90fa6bbac096e835cd.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\787261943961878529\a_47041e1094d82a90fa6bbac096e835cd.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/793556981461549076/e25810d8f4ca275612b45ede649d9f0a.webp?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\793556981461549076\e25810d8f4ca275612b45ede649d9f0a.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/709836608651657318/a_2beeeeb564cb5bdaf5294a49d26276d5.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\709836608651657318\a_2beeeeb564cb5bdaf5294a49d26276d5.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/426712346002587648/a_2fa28a81dd4e23277a2980f82cf92dd5.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\426712346002587648\a_2fa28a81dd4e23277a2980f82cf92dd5.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/797523889529815050/a_4e01df49a4763fa0f01fd0a90a33d3b9.gif?size=64
+File Name: C:\Downloaded Web Sites\codare.fun\avatars\797523889529815050\a_4e01df49a4763fa0f01fd0a90a33d3b9.gif
+Content Type: image/gif
+
+Uri: http://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.4.0/styles/hybrid.min.css
+File Name: C:\Downloaded Web Sites\codare.fun\ajax\libs\highlight.js\10.4.0\styles\hybrid.min.css
+Content Type: text/css
+
+Uri: http://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.4.0/highlight.min.js
+File Name: C:\Downloaded Web Sites\codare.fun\ajax\libs\highlight.js\10.4.0\highlight.min.js
+Content Type: application/javascript
+
+Uri: https://discord.com/oauth2/authorize?response_type=code&redirect_uri=https:%2F%2Fcodare.fun%2Fcallback&scope=identify guilds email&client_id=732290103522885642
+File Name: C:\Downloaded Web Sites\codare.fun\oauth2\authorize.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Lato:300,400,700
+File Name: C:\Downloaded Web Sites\codare.fun\css.css
+Content Type: text/css
+
+Uri: https://www.dmca.com/Protection/Status.aspx?ID=aae727a8-8c55-4990-9afd-0c08c9cb5d10
+File Name: C:\Downloaded Web Sites\codare.fun\Protection\Status.aspx.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/js?s=5
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js-6.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/js?s=6
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js-7.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/js?s=7
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js-8.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/js?s=13
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js-9.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/js?s=14
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js-10.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/js?s=15
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js-11.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/js?s=8
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js-12.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/js?s=9
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js-13.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/js?s=10
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js-14.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/js?s=11
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js-15.html
+Content Type: text/html
+
+Uri: http://codare.fun/kategori/js?s=12
+File Name: C:\Downloaded Web Sites\codare.fun\kategori\js-16.html
+Content Type: text/html
+
